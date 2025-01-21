@@ -7,10 +7,11 @@ Implementation and experimental data for the paper
 
 If you use our work in your research, please cite as:
 ```
-@article{SP2024_dualukfawgsi,
+@phdthesis{SP2024_dualukfawgsi,
   author = {Romero-Ben, L. and Irofti, P. and Stoican, F. and Puig, V.},
   title = {Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization},
   year = {2024},
+  school={PhD Thesis, IRI (CSIC-UPC)}
 }
 ```
 
