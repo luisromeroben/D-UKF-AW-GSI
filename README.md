@@ -3,14 +3,16 @@
 Implementation and experimental data for the paper
 
 > L. Romero-Ben, P. Irofti, F. Stoican, and V. Puig,
-“Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization,” 2024.
+“Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization”, IEEE Transactions on Control Systems Technology, 2025.
 
 If you use our work in your research, please cite as:
 ```
-@article{SP2024_dualukfawgsi,
-  author = {Romero-Ben, L. and Irofti, P. and Stoican, F. and Puig, V.},
-  title = {Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization},
-  year = {2024}
+@article{romero2025dual,
+  title={Dual unscented Kalman filter architecture for sensor fusion in water networks leak localization},
+  author={Romero-Ben, Luis and Irofti, Paul and Stoican, Florin and Puig, Vicen{\c{c}}},
+  journal={IEEE Transactions on Control Systems Technology},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
